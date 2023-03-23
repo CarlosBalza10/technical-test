@@ -1,0 +1,35 @@
+[{
+  "Nombre": "Maria Anders",
+  "Edad": 20,
+  "Telefono": "3222245",
+  "TipoTelefono": "Fijo",
+  "Email": "maria@info.org"
+},
+{
+  "Nombre": "Luis Ortega",
+  "Edad": 36,
+  "Telefono": "366458989",
+  "TipoTelefono": "Celular",
+  "Email": "luis@info.net"
+},
+{
+  "Nombre": "Mauro Alvear",
+  "Edad": 28,
+  "Telefono": "31114558",
+  "TipoTelefono": "Celular",
+  "Email": "mauro@info.net"
+},
+{
+  "Nombre": "Jorge Macías",
+  "Edad": 54,
+  "Telefono": "99877458",
+  "TipoTelefono": "Fijo",
+  "Email": "jorge@info.com.co"
+},
+{
+  "Nombre": "Paola Orozco",
+  "Edad": 18,
+  "Telefono": "8878545",
+  "TipoTelefono": "Celular",
+  "Email": "pao.orozco@info.site"
+}]
